@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minhas Redes Sociais</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+        }
+        .social-button {
+            display: block;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .social-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Minhas Redes Sociais</h1>
+        <a class="social-button" href="https://www.tiktok.com/@wy.danxx?_t=ZM-8v7iyBUOieN&_r=1" target="_blank">TikTok</a>
+        <a class="social-button" href="https://youtube.com/@danielfrank-c1p?si=JiBlWaPYCzMqprKh/c/SEU_CANAL" target="_blank">YouTube</a>
+        <a class="social-button" href="https://www.instagram.com/wy.danxx?igsh=MTRvMXRmcTI2b2dkbQ%3D%3D&utm_source=qr /SEU_USUARIO" target="_blank">Instagram</a>
+        <a class="social-button" href="https://www.facebook.com/SEU_USUARIO" target="_blank">Facebook</a>
+        <a class="social-button" href="https://www.facebook.com/share/1Ktz2kaJCb/?mibextid=wwXIfr" target="_blank">WhatsApp</a>
+    </div>
+</body>
+</html>
